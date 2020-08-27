@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on iOS App and Golang Web development. 
 
-- 🌱 I’m currently learning and sharing on [my blog](http://ficow.cn), welcome~
+- 🌱 I’m currently learning and sharing on [my blog](http://ficowshen.com), welcome~
 
 
 <!--
